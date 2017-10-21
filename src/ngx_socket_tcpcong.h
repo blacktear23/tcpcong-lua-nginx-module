@@ -1,6 +1,6 @@
 
 /*
- * Copyright (C) SpeedyCloud
+ * Copyright (C) Rain Li
  */
 
 #ifndef _NGX_SOCKET_TCPCONG_H_INCLUDED_
